@@ -1,6 +1,3 @@
-Vereinfacht, ohne LIO und BIO-basierte Treiber. Original:
-
-Linux Storage Stack Diagramm v4.0 (for Linux Kernel 4.0):
 # Simplified version of the Linux Storage Stack diagram
 Without LIO SCSI target and BIO based drivers for use in our Linux performance analysis and training slides.
 
