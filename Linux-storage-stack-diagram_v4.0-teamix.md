@@ -17,8 +17,8 @@ Linux I/O Stack Diagramm v4.0 (20150601)
 As downloaded from:
 
 - <http://www.thomas-krenn.com/en/oss/linux-io-stack-diagram.html>
-- <https://www.thomas-krenn.com/en/wiki/Linux\_I/O\_Stack\_Diagram>
-- <https://www.thomas-krenn.com/de/wikiDE/images/5/50/Linux-storage-stack-diagram\_v4.0.svg>
+- <https://www.thomas-krenn.com/en/wiki/Linux_I/O_Stack_Diagram>
+- <https://www.thomas-krenn.com/de/wikiDE/images/5/50/Linux-storage-stack-diagram_v4.0.svg>
 
 Thanks for these diagrams to Werner and Georg!
 
