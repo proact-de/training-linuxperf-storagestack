@@ -1,6 +1,10 @@
 # Simplified version of the Linux Storage Stack diagram
 Without LIO SCSI target and BIO based drivers for use in our Linux performance analysis and training slides.
 
+[SVG](Linux-storage-stack-diagram_v4.0-teamix.svg)
+[PDF](Linux-storage-stack-diagram_v4.0-teamix.pdf)
+[PNG](Linux-storage-stack-diagram_v4.0-teamix.png)
+
 Based on:
 
 Diagram for Linux Kernel 4.0
