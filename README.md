@@ -6,7 +6,7 @@ You can find them at:
 - <http://www.thomas-krenn.com/en/oss/linux-io-stack-diagram.html>
 - <https://www.thomas-krenn.com/en/wiki/Linux_I/O_Stack_Diagram>
 
-It contains:
+This repository contains:
 
 - [Diagram for Linux Kernel 4.0](Linux-storage-stack-diagram_v4.0.md)
 - [Diagram for Linux Kernel 3.17](Linux-storage-stack-diagram_v3.17.md)
