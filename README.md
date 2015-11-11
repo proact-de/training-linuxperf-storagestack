@@ -16,7 +16,12 @@ It contains:
 Thanks for these diagrams to Werner and Georg!
 
 
-License:
+Additional this repository contains simplified versions of the diagrams for use in our Linux performance analysis and tuning training slides:
+
+- [Diagram for Linux Kernel 4.0](Linux-storage-stack-diagram_v4.0-teamix.md): Without LIO SCSI target and BIO based drivers
+
+
+License for the original and the modified diagrams is:
 
 [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
