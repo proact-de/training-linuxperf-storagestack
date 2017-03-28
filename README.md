@@ -19,6 +19,8 @@ Thanks for these diagrams to Werner and Georg!
 
 Additional this repository contains simplified versions of the diagrams for use in our Linux performance analysis and tuning training slides:
 
+- [Diagram for Linux Kernel 4.10](Linux-storage-stack-diagram_v4.10-teamix.md): Without LIO SCSI target and BIO based drivers
+
 - [Diagram for Linux Kernel 4.0](Linux-storage-stack-diagram_v4.0-teamix.md): Without LIO SCSI target and BIO based drivers
 
 
