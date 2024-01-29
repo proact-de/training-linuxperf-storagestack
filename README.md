@@ -29,3 +29,6 @@ Additional this repository contains simplified versions of the diagrams for use 
 License for the original and the modified diagrams is:
 
 [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+
+
+URL of this repository: <https://github.com/proact-de/training-linuxperf-storagestack>
