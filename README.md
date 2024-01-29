@@ -8,20 +8,20 @@ You can find them at:
 
 This repository contains:
 
-- [Diagram for Linux Kernel 4.10](Linux-storage-stack-diagram_v4.10.md)
-- [Diagram for Linux Kernel 4.0](Linux-storage-stack-diagram_v4.0.md)
-- [Diagram for Linux Kernel 3.17](Linux-storage-stack-diagram_v3.17.md)
-- [Diagram for Linux Kernel 3.3 (version 1.0)](Kernel_3.3/Linux-io-stack-diagram_v1.0.md)
-- [Diagram for Linux Kernel 3.3 (version 0.1)](Kernel_3.3/Linux-io-stack-diagram_v0.1.md)
+- [Diagram for Linux Kernel 4.10](Linux_4.10/Linux-storage-stack-diagram_v4.10.md)
+- [Diagram for Linux Kernel 4.0](Linux_4.0/Linux-storage-stack-diagram_v4.0.md)
+- [Diagram for Linux Kernel 3.17](Linux_3.17/Linux-storage-stack-diagram_v3.17.md)
+- [Diagram for Linux Kernel 3.3 (version 1.0)](Linux_3.3/Linux-io-stack-diagram_v1.0.md)
+- [Diagram for Linux Kernel 3.3 (version 0.1)](Linux_3.3/Linux-io-stack-diagram_v0.1.md)
 
 Thanks for these diagrams to Werner and Georg!
 
 
 Additional this repository contains simplified versions of the diagrams for use in our Linux performance analysis and tuning training slides:
 
-- [Diagram for Linux Kernel 4.10](Linux-storage-stack-diagram_v4.10-teamix.md): Without LIO SCSI target and BIO based drivers
+- [Diagram for Linux Kernel 4.10](Linux_4.10/Linux-storage-stack-diagram_v4.10-teamix.md): Without LIO SCSI target and BIO based drivers
 
-- [Diagram for Linux Kernel 4.0](Linux-storage-stack-diagram_v4.0-teamix.md): Without LIO SCSI target and BIO based drivers
+- [Diagram for Linux Kernel 4.0](Linux_4.0/Linux-storage-stack-diagram_v4.0-teamix.md): Without LIO SCSI target and BIO based drivers
 
 
 License for the original and the modified diagrams is:
