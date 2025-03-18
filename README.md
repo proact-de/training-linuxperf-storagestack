@@ -9,7 +9,7 @@ You can find them at:
 
 This repository contains:
 
-- [Diagram for Linux Kernel 6.2](Linux-storage-stack-diagram_v6.2.md)
+- [Diagram for Linux Kernel 6.2](Linux_6.2/Linux-storage-stack-diagram_v6.2.md)
 - [Diagram for Linux Kernel 4.10](Linux_4.10/Linux-storage-stack-diagram_v4.10.md)
 - [Diagram for Linux Kernel 4.0](Linux_4.0/Linux-storage-stack-diagram_v4.0.md)
 - [Diagram for Linux Kernel 3.17](Linux_3.17/Linux-storage-stack-diagram_v3.17.md)
