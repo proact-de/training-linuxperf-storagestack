@@ -2,13 +2,11 @@
 
 These are the Linux Storage Stack diagrams by Werner Fischer und Georg Schönberger. They show the layout of the Linux storage stack.
 
-You can find them at:
-
-- <http://www.thomas-krenn.com/en/oss/linux-io-stack-diagram.html>
-- <https://www.thomas-krenn.com/en/wiki/Linux_I/O_Stack_Diagram>
+You can find on the page [Linux Storage Stack Diagram](<https://www.thomas-krenn.com/en/wiki/Linux_I/O_Stack_Diagram>) of the Thomas Krenn wiki.
 
 This repository contains:
 
+- [Diagram for Linux Kernel 6.9](Linux-storage-stack-diagram v6.9.md)
 - [Diagram for Linux Kernel 6.2](Linux_6.2/Linux-storage-stack-diagram_v6.2.md)
 - [Diagram for Linux Kernel 4.10](Linux_4.10/Linux-storage-stack-diagram_v4.10.md)
 - [Diagram for Linux Kernel 4.0](Linux_4.0/Linux-storage-stack-diagram_v4.0.md)
