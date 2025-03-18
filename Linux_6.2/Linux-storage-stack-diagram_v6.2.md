@@ -2,10 +2,8 @@
 
 Available in different formats:
 
-[DrawIO](Linux-storage-stack-diagram_v6.2.drawio)
-[SVG](Linux-storage-stack-diagram_v6.2.svg)
-[PDF](Linux-storage-stack-diagram_v6.2.pdf)
-[PNG](Linux-storage-stack-diagram_v6.2.png)
+[DrawIO](Linux-storage-stack-diagram_v6.2.drawio) - [SVG](Linux-storage-stack-diagram_v6.2.svg) -
+[PDF](Linux-storage-stack-diagram_v6.2.pdf) - [PNG](Linux-storage-stack-diagram_v6.2.png)
 
 As downloaded from:
 

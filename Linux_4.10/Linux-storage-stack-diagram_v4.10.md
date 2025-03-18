@@ -2,9 +2,7 @@
 
 Available in different formats:
 
-[SVG](Linux-storage-stack-diagram_v4.10.svg)
-[PDF](Linux-storage-stack-diagram_v4.10.pdf)
-[PNG](Linux-storage-stack-diagram_v4.10.png)
+[SVG](Linux-storage-stack-diagram_v4.10.svg) - [PDF](Linux-storage-stack-diagram_v4.10.pdf) - [PNG](Linux-storage-stack-diagram_v4.10.png)
 
 As downloaded from:
 

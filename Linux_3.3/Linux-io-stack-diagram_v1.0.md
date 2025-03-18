@@ -2,9 +2,7 @@
 
 Available in different formats:
 
-[SVG](Linux-io-stack-diagram_v1.0.svg)
-[PDF](Linux-io-stack-diagram_v1.0.pdf)
-[PNG](Linux-io-stack-diagram_v1.0.png)
+[SVG](Linux-io-stack-diagram_v1.0.svg) - [PDF](Linux-io-stack-diagram_v1.0.pdf) - [PNG](Linux-io-stack-diagram_v1.0.png)
 
 As downloaded from:
 

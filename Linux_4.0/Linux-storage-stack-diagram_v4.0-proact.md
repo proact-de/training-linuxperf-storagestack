@@ -4,9 +4,7 @@ Without LIO SCSI target and BIO based drivers for use in our Linux performance a
 
 Available in different formats:
 
-[SVG](Linux-storage-stack-diagram_v4.0-teamix.svg)
-[PDF](Linux-storage-stack-diagram_v4.0-teamix.pdf)
-[PNG](Linux-storage-stack-diagram_v4.0-teamix.png)
+[SVG](Linux-storage-stack-diagram_v4.0-teamix.svg) - [PDF](Linux-storage-stack-diagram_v4.0-teamix.pdf) - [PNG](Linux-storage-stack-diagram_v4.0-teamix.png)
 
 Based on:
 
