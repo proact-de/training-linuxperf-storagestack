@@ -1,7 +1,7 @@
 ---
-created: 2024-01-29T15:00:10 (UTC +01:00)
+created: 2025-03-18T13:23:34 (UTC +01:00)
 tags: []
-source: https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram#Diagram_for_Linux_Kernel_6.2
+source: https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram#Diagram_for_Linux_Kernel_6.9
 author: Thomas-Krenn.AG
 ---
 
@@ -13,11 +13,30 @@ author: Thomas-Krenn.AG
 ---
 The **Linux Storage Stack Diagram** shows the layout of the the Linux storage stack.
 
-[![](https://www.thomas-krenn.com/en/wikiEN/images/thumb/8/83/Linux-storage-stack-diagram_v6.2.png/400px-Linux-storage-stack-diagram_v6.2.png)](https://www.thomas-krenn.com/en/wiki/File:Linux-storage-stack-diagram_v6.2.png)
+[![](https://www.thomas-krenn.com/de/wikiDE/images/thumb/e/e8/Linux-storage-stack-diagram_v6.9.png/400px-Linux-storage-stack-diagram_v6.9.png)](https://www.thomas-krenn.com/en/wiki/File:Linux-storage-stack-diagram_v6.9.png)
 
-Linux Storage Stack Diagram v6.2
+Linux Storage Stack Diagram v6.9
 
 ## Downloads
+
+### Diagram for Linux Kernel 6.11
+
+Currently in development, here is the list of upcoming changes:
+
+-   [null\_blk: remove the bio based I/O path](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/drivers/block/null_blk/main.c?id=8b631f9cf0b84ac59cd4f0c6dcd2d0cb80dd8a49) (Kernel 6.9)
+
+### Diagram for Linux Kernel 6.9
+
+Linux Storage Stack Diagram v6.9):
+
+-   Linux I/O Stack Diagram v6.2 (20230309): [ZIP](https://www.thomas-krenn.com/de/wikiDE/images/e/e3/Linux-storage-stack-diagram_v6.9.zip "Linux-storage-stack-diagram v6.9.zip") (includes .drawio and .svg) [PDF](https://www.thomas-krenn.com/de/wikiDE/images/a/ad/Linux-storage-stack-diagram_v6.9.pdf "Linux-storage-stack-diagram v6.9.pdf") [PNG](https://www.thomas-krenn.com/de/wikiDE/images/e/e8/Linux-storage-stack-diagram_v6.9.png "Linux-storage-stack-diagram v6.9.png")
+
+Changelog:
+
+-   dm-vdo added (Kernel 6.9)
+-   ext2 removed (Kernel 6.9, ext2, like ext3, is also supported by the ext4 code)
+-   bcachefs added (Kernel 6.7)
+-   EROFS added (since Kernel 5.4 not experimental any more)
 
 ### Diagram for Linux Kernel 6.2
 
@@ -53,6 +72,11 @@ Linux Storage Stack Diagram v1.0 (for [Linux Kernel 3.3](https://www.thomas-kren
 ## License
 
 The Linux Storage Stack Diagram is licensed under CC-BY-SA 3.0.<sup id="cite_ref-1"><a href="https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram#cite_note-1">[1]</a></sup>
+
+## Citations of the Diagram
+
+-   [Linux NVMe and block layer status update (SDC 2019)](https://www.youtube.com/watch?v=NtkKHhXf3V4&t=103s) (Christoph Hellwig, [SDC 2019](https://www.snia.org/educational-library/linux-nvme-and-block-layer-status-update-2019))
+-   [Überblick des Linux Storage Stack](https://media.ccc.de/v/froscon2015-1677-uberblick_des_linux_storage_stack#t=2410) (Christoph Hellwig, Froscon 2015)
 
 ## References
 
