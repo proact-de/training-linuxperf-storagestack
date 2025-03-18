@@ -1,4 +1,4 @@
-# Storage Stack diagram for Linux Kernel 4.10
+# Storage Stack diagram for Linux Kernel 6.2
 
 Available in different formats:
 
