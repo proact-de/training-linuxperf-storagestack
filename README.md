@@ -6,7 +6,7 @@ You can find on the page [Linux Storage Stack Diagram](<https://www.thomas-krenn
 
 This repository contains:
 
-- [Diagram for Linux Kernel 6.9](Linux-storage-stack-diagram v6.9.md)
+- [Diagram for Linux Kernel 6.9](<Linux-storage-stack-diagram v6.9.md>)
 - [Diagram for Linux Kernel 6.2](Linux_6.2/Linux-storage-stack-diagram_v6.2.md)
 - [Diagram for Linux Kernel 4.10](Linux_4.10/Linux-storage-stack-diagram_v4.10.md)
 - [Diagram for Linux Kernel 4.0](Linux_4.0/Linux-storage-stack-diagram_v4.0.md)
